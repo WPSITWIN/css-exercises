@@ -1,0 +1,16 @@
+.alert-text {
+background-color: #e49797;
+font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+.alert-text.not-severe {
+    font-size: 24px;
+}
+#safe {
+    color: blue;
+    font-size: 36px;
+}
+#doctor {
+    background-color: rgb(101, 189, 101);
+    font-weight: bold;
+    font-size: 24px;
+}   
